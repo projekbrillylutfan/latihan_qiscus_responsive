@@ -1,0 +1,47 @@
+@media (min-width: 576px) {
+  .flex-trusted {
+    font-family: "Inter var", "Inter UI", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: -1.2px;
+    line-height: 50.4px;
+    text-decoration: none solid rgb(1, 65, 108);
+    word-spacing: 0px;
+
+    background-color: #ffffff;
+    background-position: 0% 0%;
+    color: #01416c;
+
+    margin-top: 263px;
+    margin-bottom: 81px;
+  }
+
+  .grid-system1 {
+    order: 2;
+  }
+  /* Anda dapat menambahkan aturan CSS lainnya sesuai kebutuhan */
+}
+
+@media (max-width: 1200px) {
+  .flex-trusted {
+    font-family: "Inter var", "Inter UI", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: -1.2px;
+    line-height: 50.4px;
+    text-decoration: none solid rgb(1, 65, 108);
+    word-spacing: 0px;
+
+    background-color: #ffffff;
+    background-position: 0% 0%;
+    color: #01416c;
+
+    margin-top: 263px;
+    margin-bottom: 81px;
+  }
+
+  .grid-system1 {
+    order: 1;
+  }
+  /* Anda dapat menambahkan aturan CSS lainnya sesuai kebutuhan */
+}
